@@ -1,0 +1,11 @@
+---
+title: "formula"
+author: "Cheng"
+date: "Thursday, February 26, 2015"
+output:
+  html_document:
+    keep_md: yes
+---
+
+$\alpha$
+

@@ -1,0 +1,10 @@
+---
+title: "README"
+author: "Cheng"
+date: "Thursday, February 26, 2015"
+output: html_document
+---
+
+This is a simple webpage to visualize the worm like chain formula.
+
+
